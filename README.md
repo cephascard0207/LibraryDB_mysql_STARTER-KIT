@@ -1,10 +1,13 @@
 # LibraryDB_mysql_STARTER-KIT 📚💻
-
+# Version 1.0
 This project/repository contains the query script and ER diagram for a Simple Library Database with inner tabular data schemas using MySQL Workbench and SQL. Created by Cephas Cardozo.
 
 ## Project Description
 
 Welcome to the LibraryDB_mysql_STARTER-KIT! This repository is designed to help you get started with creating and managing a simple library database using MySQL. Below are the key features and components of this project:
+
+## LibraryDB ER-Diagram
+<img src="https://github.com/cephascard0207/LibraryDB_mysql_STARTER-KIT/blob/main/librarydb.jpg?raw=true"/>
 
 ### Key Features
 
