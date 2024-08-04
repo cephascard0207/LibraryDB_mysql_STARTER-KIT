@@ -40,3 +40,9 @@ SELECT * FROM library WHERE DATEDIFF(submission_date, borrow_date) > 10;
 
 -- USE THE VARIABLES FOR DATE RANGE | USING @start_date & @end_date
 SELECT * FROM library WHERE borrow_date BETWEEN @start_date AND @end_date;
+
+/* ORDER DATA BY submission_date IN DESCENDING ORDER */
+SELECT * FROM library ORDER BY submission_date DESC;
+
+/* GROUP BY AND ORDER BY TOGETHER TO GROUP DATA BY book_name AND ORDER BY submission_date */
+SELECT book_name, COUNT(*) AS borrow_count FROM library GROUP BY book_name;
