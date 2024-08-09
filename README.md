@@ -4,7 +4,7 @@ This project/repository contains the query script and ER diagram for a Simple Li
 
 ## Project Description
 
-Welcome to the LibraryDB_mysql_STARTER-KIT! This repository is designed to help you get started with creating and managing a simple library database using MySQL. Below are the key features and components of this project:
+Welcome to the LibraryDB_mysql_STARTER-KIT! This repository is designed to help you get started with creating and managing a simple library database using MySQL. Version 1.1 undergoing development! New features coming soon.
 
 ## LibraryDB ER-Diagram
 <img src="https://github.com/cephascard0207/LibraryDB_mysql_STARTER-KIT/blob/main/librarydb_ER.jpg?raw=true"/>
